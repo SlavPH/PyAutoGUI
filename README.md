@@ -7,7 +7,7 @@ Simple Spammer with PyAutoGUI
 **[3]** `cd PyAutoGUI`               
 **[4]** `chmod +x *`                  
 **[5]** Add your text to `SpamText.txt`                                       
-**[6]** `./spam.py` 
+**[6]** `./run.py` 
 
 # Social Media
 [Instagram](https://instagram.com/theslavph)                                                
