@@ -9,9 +9,6 @@ Simple Spammer with PyAutoGUI
 **[5]** Add your text to `SpamText.txt`                                       
 **[6]** `./run.py` 
 
-# Social Media
-[Instagram](https://instagram.com/theslavph)                                                
-[Telegram](https://telegram.me/theslavph)
 
 # Educational purposes noly                 
 > Use this tool only for fun with permission
